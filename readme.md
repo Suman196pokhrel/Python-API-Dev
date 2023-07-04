@@ -11,7 +11,6 @@
 5. Postman
 7. Deployment
     1. Ubuntu - reverse proxy, firewalls, ssl
-    2. Heroku
 
 
 ***
@@ -20,6 +19,7 @@
 1. fastAPI
 2. PostGreSQL
 3. ORM - Alchemy
+4. Database Migration Tool - Alembic
 ***
 ## Proejct
 * name : SocialMediaApplication

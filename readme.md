@@ -9,13 +9,10 @@
 3. Database schemas
 4. Alembic
 5. Postman
-6. Testing
 7. Deployment
     1. Ubuntu - reverse proxy, firewalls, ssl
     2. Heroku
 
-8. Docker
-9. CI/CD pipeline , githubActions
 
 ***
 

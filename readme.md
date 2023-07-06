@@ -1,5 +1,5 @@
 ## Topics covered
-[Click Here, https://www.pyroprep.space/](https://www.pyroprep.space/){:target="_blank"} to view to Live Demo.
+[Click Here, https://www.pyroprep.space/](https://www.pyroprep.space/) to view to Live Demo.
 
 1. Fully featured API's
     1. Authentication

@@ -1,4 +1,5 @@
 ## Topics covered
+[Click Here, https://www.pyroprep.space/](https://www.pyroprep.space/) to view to Live Demo.
 
 1. Fully featured API's
     1. Authentication
@@ -10,7 +11,7 @@
 4. Alembic
 5. Postman
 7. Deployment
-    1. Ubuntu - reverse proxy, firewalls, ssl
+    1. Digital-Ocean -- Ubuntu - reverse proxy, firewalls, ssl
 
 
 ***

@@ -29,7 +29,6 @@ app.include_router(vote.router)
 
 @app.get("/")
 def root():
-    print("Inside Server")
     return {"message":"Hello world"}
 
 
